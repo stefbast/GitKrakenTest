@@ -1,1 +1,2 @@
 master content
+add from master (item 1)
